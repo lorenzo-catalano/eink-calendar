@@ -50,8 +50,15 @@ h2 > svg{
     margin: 0;
     font-weight: bold;
     text-transform: uppercase;
+    flex-grow: 1;
 }
-
+.month-nav{
+    display: flex;
+    gap:5px;
+}
+.month-nav svg{
+    height:30px;
+}
 .month-nav button {
     background: #ffffff;
     border: 2px solid #000000;

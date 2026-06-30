@@ -178,3 +178,6 @@ fetch('https://api.open-meteo.com/v1/forecast?latitude=45.5744&longitude=9.0754&
 
 
 setTimeout(()=>document.location.reload(),60000)
+
+
+document.getElementById('reload').addEventListener('click', () => document.location.reload());
