@@ -6,15 +6,14 @@ html,body{
 }
 body {
     padding:20px;
-    font-family: monospace, system-ui, sans-serif;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
     background-color: #fff;
     color: #000000;
     display: flex;
     flex-direction: column;
     align-items: center;
     margin: 0;
-    height:1448px;
-    width:1072px;
     position: relative;
 }
 h2{
@@ -28,20 +27,20 @@ h2 > svg{
 }
 
 .calendar-container {
-    min-height:50%;
     background: #ffffff;
     border: 4px solid #000000;
-    width: 100%;
     padding: 20px;
     display: flex;
     flex-direction: column;
+    width: 80%;
 }
 
 .calendar-header {
     display: flex;
+    flex-direction:column;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     border-bottom: 4px solid #000000;
     padding-bottom: 10px;
 }
@@ -54,7 +53,8 @@ h2 > svg{
 }
 .month-nav{
     display: flex;
-    gap:5px;
+    justify-content: space-between;
+    width: 100%;
 }
 .month-nav svg{
     height:30px;
@@ -97,13 +97,14 @@ h2 > svg{
     background-color: #ffffff;
     position: relative;
     width: auto;
-    height: 100px;
+    padding:25px 30px;
 }
 
 /* Styling for days from previous/next month */
 .calendar-day.empty {
     border: 1px dashed #cccccc;
     color: #888888;
+    opacity:0.5;
 }
 
 /* High-contrast active day (Inverted) */
@@ -200,4 +201,21 @@ h2 > svg{
 }
 .temp{
     text-align: center;
+}
+.batteryCont{    
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+.batteryCont svg{
+    height: 60px;
+    width: 60px;
+    display:none;
+    
+}
+.batteryCont svg.show{
+    display:block
 }

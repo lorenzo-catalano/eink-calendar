@@ -176,8 +176,64 @@ fetch('https://api.open-meteo.com/v1/forecast?latitude=45.5744&longitude=9.0754&
     });
 
 
+fetch('./batterylevel.json').then(s=>s.json()).then(b=>{
+    var batt = b.battInfo[0]
+    var level = batt.cap
 
-setTimeout(()=>document.location.reload(),60000)
+    document.querySelector('#batteryPerc').textContent = level+'%'
+
+    var show = document.querySelector('.batteryCont .show')
+    if(show)
+        show.classList.remove('show')
+
+    if(batt.charging){
+        document.getElementById("batteryCharging").classList.add('show')
+        return;
+    }
+
+    if(level>=95){
+        document.getElementById("batteryFull").classList.add('show')
+    }else if(level>75){
+        document.getElementById("batteryHigh").classList.add('show')
+    }else if(level>35){
+        document.getElementById("batteryMed").classList.add('show')
+    }else if(level>5){
+        document.getElementById("batteryLow").classList.add('show')
+    }else if(level<5){
+        document.getElementById("batteryEmpty").classList.add('show')
+    }
+}) 
+
+
+
 
 
 document.getElementById('reload').addEventListener('click', () => document.location.reload());
+
+
+(function() {
+    // 120 seconds in milliseconds
+    const INACTIVITY_TIME = 120000; 
+    let timeoutId;
+
+    function resetTimer() {
+        // Clear the previous timer
+        clearTimeout(timeoutId);
+        
+        // Start a new timer to reload the page
+        timeoutId = setTimeout(() => {
+            window.location.reload();
+        }, INACTIVITY_TIME);
+    }
+
+    // List of events that count as "activity"
+    const activityEvents = ['mousedown', 'mousemove', 'keypress', 'scroll', 'touchstart'];
+
+    // Add event listeners to the window
+    activityEvents.forEach(event => {
+        window.addEventListener(event, resetTimer, { passive: true });
+    });
+
+    // Initialize the timer on page load
+    resetTimer();
+})();

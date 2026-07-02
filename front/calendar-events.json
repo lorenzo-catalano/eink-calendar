@@ -1,0 +1,1020 @@
+[
+  {
+    "kind": "calendar#event",
+    "etag": "\"3564562455926526\"",
+    "id": "64o6cohg6gqjcbb2c9j62b9kclhm2b9o6ko68bb660q62e1j6hi64db36k",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NjRvNmNvaGc2Z3FqY2JiMmM5ajYyYjlrY2xobTJiOW82a282OGJiNjYwcTYyZTFqNmhpNjRkYjM2ayBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-06-24T06:07:07.000Z",
+    "updated": "2026-06-24T06:07:07.963Z",
+    "summary": "YOGA",
+    "creator": {
+      "email": "fraffry86@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "dateTime": "2026-07-03T17:30:00Z",
+      "timeZone": "Europe/Rome"
+    },
+    "end": {
+      "dateTime": "2026-07-03T18:30:00Z",
+      "timeZone": "Europe/Rome"
+    },
+    "iCalUID": "64o6cohg6gqjcbb2c9j62b9kclhm2b9o6ko68bb660q62e1j6hi64db36k@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": true
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3564145025254430\"",
+    "id": "75h3ec1o6lij8bb46gs30b9k68pjabb2c4o64b9i61ijeeb3ccsm6dr3ck",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzVoM2VjMW82bGlqOGJiNDZnczMwYjlrNjhwamFiYjJjNG82NGI5aTYxaWplZWIzY2NzbTZkcjNjayBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-06-21T20:08:32.000Z",
+    "updated": "2026-06-21T20:08:32.627Z",
+    "summary": "Inizio saldi",
+    "creator": {
+      "email": "fraffry86@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2026-07-04"
+    },
+    "end": {
+      "date": "2026-07-05"
+    },
+    "transparency": "transparent",
+    "iCalUID": "75h3ec1o6lij8bb46gs30b9k68pjabb2c4o64b9i61ijeeb3ccsm6dr3ck@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20260713",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI2MDcxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2026-07-13"
+    },
+    "end": {
+      "date": "2026-07-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2026-07-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3550976008957950\"",
+    "id": "clhj0e1g64q32bb4c8s68b9k6hij0bb26pgm8b9p6kp6cp9g6kr3cd9m60",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=Y2xoajBlMWc2NHEzMmJiNGM4czY4YjlrNmhpajBiYjI2cGdtOGI5cDZrcDZjcDlnNmtyM2NkOW02MCBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-04-06T15:06:44.000Z",
+    "updated": "2026-04-06T15:06:44.478Z",
+    "summary": "ESAMI ALLERGICI",
+    "location": "ASST dei Sette Laghi, Viale Luigi Borri, 57, 21100 Varese VA, Italia",
+    "creator": {
+      "email": "fraffry86@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "dateTime": "2026-07-15T09:15:00Z",
+      "timeZone": "Europe/Rome"
+    },
+    "end": {
+      "dateTime": "2026-07-15T10:15:00Z",
+      "timeZone": "Europe/Rome"
+    },
+    "iCalUID": "clhj0e1g64q32bb4c8s68b9k6hij0bb26pgm8b9p6kp6cp9g6kr3cd9m60@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": true
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3565156207755486\"",
+    "id": "60p3aphhc4p64b9kc4sm2b9k6tijgbb2cks34b9g71j62oj364rjidj3c8",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NjBwM2FwaGhjNHA2NGI5a2M0c20yYjlrNnRpamdiYjJja3MzNGI5ZzcxajYyb2ozNjRyamlkajNjOCBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-06-27T16:35:03.000Z",
+    "updated": "2026-06-27T16:35:03.877Z",
+    "summary": "Estetista",
+    "creator": {
+      "email": "fraffry86@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "dateTime": "2026-07-15T13:30:00Z",
+      "timeZone": "Europe/Rome"
+    },
+    "end": {
+      "dateTime": "2026-07-15T14:30:00Z",
+      "timeZone": "Europe/Rome"
+    },
+    "iCalUID": "60p3aphhc4p64b9kc4sm2b9k6tijgbb2cks34b9g71j62oj364rjidj3c8@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": true
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3565102106711550\"",
+    "id": "ccrm4eb46tij4bb56pijcb9k69i3ab9oc4rm6b9hcgrj2cr4c4qjadb3ck",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=Y2NybTRlYjQ2dGlqNGJiNTZwaWpjYjlrNjlpM2FiOW9jNHJtNmI5aGNncmoyY3I0YzRxamFkYjNjayBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-06-27T09:04:13.000Z",
+    "updated": "2026-06-27T09:04:13.355Z",
+    "summary": "Parrucchiera",
+    "creator": {
+      "email": "fraffry86@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "dateTime": "2026-07-17T15:30:00Z",
+      "timeZone": "Europe/Rome"
+    },
+    "end": {
+      "dateTime": "2026-07-17T16:30:00Z",
+      "timeZone": "Europe/Rome"
+    },
+    "iCalUID": "ccrm4eb46tij4bb56pijcb9k69i3ab9oc4rm6b9hcgrj2cr4c4qjadb3ck@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": true
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3564112655369438\"",
+    "id": "0r6irkqn4nggjuflgoste8omqo",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHI2aXJrcW40bmdnanVmbGdvc3RlOG9tcW8gZmFtaWx5MDk2OTQyOTI2NzE3MDk4MzA3MTRAZw",
+    "created": "2026-06-21T15:38:47.000Z",
+    "updated": "2026-06-21T15:38:47.684Z",
+    "summary": "Grecia",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2026-07-18"
+    },
+    "end": {
+      "date": "2026-08-01"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0r6irkqn4nggjuflgoste8omqo@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3565285648519838\"",
+    "id": "5v1ja8mgkcf792aclptgp4a98u",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXYxamE4bWdrY2Y3OTJhY2xwdGdwNGE5OHUgZmFtaWx5MDk2OTQyOTI2NzE3MDk4MzA3MTRAZw",
+    "created": "2026-06-28T10:33:44.000Z",
+    "updated": "2026-06-28T10:33:44.259Z",
+    "summary": "Ecografia Tata",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "dateTime": "2026-08-10T15:40:00Z",
+      "timeZone": "Europe/Rome"
+    },
+    "end": {
+      "dateTime": "2026-08-10T16:40:00Z",
+      "timeZone": "Europe/Rome"
+    },
+    "iCalUID": "5v1ja8mgkcf792aclptgp4a98u@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": true
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20260813",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI2MDgxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2026-08-13"
+    },
+    "end": {
+      "date": "2026-08-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2026-08-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3563038625306366\"",
+    "id": "6kp6ap33corjabb2ckojab9k61imab9o6cpm8b9i71h34d9i60s30oj368",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NmtwNmFwMzNjb3JqYWJiMmNrb2phYjlrNjFpbWFiOW82Y3BtOGI5aTcxaDM0ZDlpNjBzMzBvajM2OCBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-06-15T10:28:32.000Z",
+    "updated": "2026-06-15T10:28:32.653Z",
+    "summary": "THANK YOU DAY",
+    "creator": {
+      "email": "fraffry86@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2026-09-04"
+    },
+    "end": {
+      "date": "2026-09-05"
+    },
+    "transparency": "transparent",
+    "iCalUID": "6kp6ap33corjabb2ckojab9k61imab9o6cpm8b9i71h34d9i60s30oj368@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20260913",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI2MDkxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2026-09-13"
+    },
+    "end": {
+      "date": "2026-09-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2026-09-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20261013",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI2MTAxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2026-10-13"
+    },
+    "end": {
+      "date": "2026-10-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2026-10-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20261113",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI2MTExMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2026-11-13"
+    },
+    "end": {
+      "date": "2026-11-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2026-11-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20261213",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI2MTIxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2026-12-13"
+    },
+    "end": {
+      "date": "2026-12-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2026-12-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20270113",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MDExMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2027-01-13"
+    },
+    "end": {
+      "date": "2027-01-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2027-01-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3561866746468542\"",
+    "id": "75gjephl6coj0bb3cgsj4b9k6go38b9p6pij6bb56cp34cb465i3epj664",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzVnamVwaGw2Y29qMGJiM2Nnc2o0YjlrNmdvMzhiOXA2cGlqNmJiNTZjcDM0Y2I0NjVpM2VwajY2NCBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-06-08T15:42:53.000Z",
+    "updated": "2026-06-08T15:42:53.234Z",
+    "summary": "Controllo dentista tato",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "dateTime": "2027-01-25T16:30:00Z",
+      "timeZone": "Europe/Rome"
+    },
+    "end": {
+      "dateTime": "2027-01-25T17:30:00Z",
+      "timeZone": "Europe/Rome"
+    },
+    "iCalUID": "75gjephl6coj0bb3cgsj4b9k6go38b9p6pij6bb56cp34cb465i3epj664@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": true
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20270213",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MDIxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2027-02-13"
+    },
+    "end": {
+      "date": "2027-02-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2027-02-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20270313",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MDMxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2027-03-13"
+    },
+    "end": {
+      "date": "2027-03-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2027-03-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20270413",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MDQxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2027-04-13"
+    },
+    "end": {
+      "date": "2027-04-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2027-04-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20270513",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MDUxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2027-05-13"
+    },
+    "end": {
+      "date": "2027-05-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2027-05-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3558756189939614\"",
+    "id": "6gsm4e1lc8s3cb9kcph30b9k60r3eb9p60q32b9ncdgj2e1l6hi3goj674",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NmdzbTRlMWxjOHMzY2I5a2NwaDMwYjlrNjByM2ViOXA2MHEzMmI5bmNkZ2oyZTFsNmhpM2dvajY3NCBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-05-21T15:41:34.000Z",
+    "updated": "2026-05-21T15:41:34.969Z",
+    "summary": "730 tati",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "dateTime": "2027-05-20T14:00:00Z",
+      "timeZone": "Europe/Rome"
+    },
+    "end": {
+      "dateTime": "2027-05-20T15:00:00Z",
+      "timeZone": "Europe/Rome"
+    },
+    "iCalUID": "6gsm4e1lc8s3cb9kcph30b9k60r3eb9p60q32b9ncdgj2e1l6hi3goj674@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": true
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20270613",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MDYxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2027-06-13"
+    },
+    "end": {
+      "date": "2027-06-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2027-06-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20270713",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MDcxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2027-07-13"
+    },
+    "end": {
+      "date": "2027-07-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2027-07-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20270813",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MDgxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2027-08-13"
+    },
+    "end": {
+      "date": "2027-08-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2027-08-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20270913",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MDkxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2027-09-13"
+    },
+    "end": {
+      "date": "2027-09-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2027-09-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20271013",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MTAxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2027-10-13"
+    },
+    "end": {
+      "date": "2027-10-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2027-10-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20271113",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MTExMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2027-11-13"
+    },
+    "end": {
+      "date": "2027-11-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2027-11-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20271213",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MTIxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2027-12-13"
+    },
+    "end": {
+      "date": "2027-12-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2027-12-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20280113",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI4MDExMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2028-01-13"
+    },
+    "end": {
+      "date": "2028-01-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2028-01-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3546775648218238\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20280213",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI4MDIxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-03-13T07:43:44.109Z",
+    "summary": "Cesare Antiparass",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2028-02-13"
+    },
+    "end": {
+      "date": "2028-02-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "originalStartTime": {
+      "date": "2028-02-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  }
+]
