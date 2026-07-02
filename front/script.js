@@ -1,3 +1,30 @@
+(function() {
+    // 120 seconds in milliseconds
+    const INACTIVITY_TIME = 120000; 
+    let timeoutId;
+
+    function resetTimer() {
+        // Clear the previous timer
+        clearTimeout(timeoutId);
+        
+        // Start a new timer to reload the page
+        timeoutId = setTimeout(() => {
+            window.location.reload();
+        }, INACTIVITY_TIME);
+    }
+
+    // List of events that count as "activity"
+    const activityEvents = ['mousedown', 'mousemove', 'keypress', 'scroll', 'touchstart'];
+
+    // Add event listeners to the window
+    activityEvents.forEach(event => {
+        window.addEventListener(event, resetTimer, { passive: true });
+    });
+
+    // Initialize the timer on page load
+    resetTimer();
+})();
+
 // Localized arrays to avoid heavy formatting libraries
 const MONTHS_IT = ['Gennaio', 'Febbraio', 'Marzo', 'Aprile', 'Maggio', 'Giugno', 'Luglio', 'Agosto', 'Settembre', 'Ottobre', 'Novembre', 'Dicembre'];
 
@@ -90,25 +117,51 @@ const drawCalendar = (calDate) => {
 function drawDayContainer() {
     if (!selectedDay) return;
     
-    dayContainer.classList.add('open');
     const dateStr = toIsoDateStr(selectedDay);
     
     // Reverse display format DD/MM/YYYY
     const parts = dateStr.split('-');
-    dayContainerTitle.textContent = `${parts[2]}/${parts[1]}/${parts[0]}`;
+    // dayContainerTitle.textContent = `${parts[2]}/${parts[1]}/${parts[0]}`;
 
     const todayEvents = indexedEvents[dateStr] || [];
     let html = '';
     
-    for (let i = 0; i < todayEvents.length; i++) {
-        const ev = todayEvents[i];
-        if (ev.start.dateTime) {
-            const tStart = ev.start.dateTime.substring(11, 16);
-            const tEnd = ev.end.dateTime.substring(11, 16);
-            html += `<span>[${tStart} - ${tEnd}] ${ev.summary}</span>`;
+    for (let i = 0; i < 100; i++) {
+        // Calculate the target date
+        const targetDate = new Date(selectedDay);
+        targetDate.setDate(selectedDay.getDate() + i);
+        
+        // Convert target date to ISO format 'YYYY-MM-DD' for indexing
+        const dateStr = toIsoDateStr(targetDate);
+        
+        // Format date as 'DD/MM/YYYY' for the display header
+        const parts = dateStr.split('-');
+        const displayDate = `${parts[2]}/${parts[1]}/${parts[0]}`;
+        
+        // Grab events for this specific day
+        const todayEvents = indexedEvents[dateStr] || [];
+        
+
+        
+        if (todayEvents.length === 0) {
         } else {
-            html += `<span>[All day] ${ev.summary}</span>`;
+                    // Append a sub-header for the day
+        html += `<div class="day-section" style="margin-bottom: 15px;">`;
+        html += `<h4 style="margin: 5px 0; color: #333;">${displayDate}</h4>`;
+            for (let j = 0; j < todayEvents.length; j++) {
+                const ev = todayEvents[j];
+                html += `<div style="margin-left: 10px;">`;
+                if (ev.start.dateTime) {
+                    const tStart = ev.start.dateTime.substring(11, 16);
+                    const tEnd = ev.end.dateTime.substring(11, 16);
+                    html += `<span>[${tStart} - ${tEnd}] ${ev.summary}</span>`;
+                } else {
+                    html += `<span>[All day] ${ev.summary}</span>`;
+                }
+                html += `</div>`;
+            }
         }
+        html += `</div>`;
     }
     dayContainer.innerHTML = html;
 }
@@ -209,29 +262,4 @@ fetch('./batterylevel.json').then(s=>s.json()).then(b=>{
 document.getElementById('reload').addEventListener('click', () => document.location.reload());
 
 
-(function() {
-    // 120 seconds in milliseconds
-    const INACTIVITY_TIME = 120000; 
-    let timeoutId;
 
-    function resetTimer() {
-        // Clear the previous timer
-        clearTimeout(timeoutId);
-        
-        // Start a new timer to reload the page
-        timeoutId = setTimeout(() => {
-            window.location.reload();
-        }, INACTIVITY_TIME);
-    }
-
-    // List of events that count as "activity"
-    const activityEvents = ['mousedown', 'mousemove', 'keypress', 'scroll', 'touchstart'];
-
-    // Add event listeners to the window
-    activityEvents.forEach(event => {
-        window.addEventListener(event, resetTimer, { passive: true });
-    });
-
-    // Initialize the timer on page load
-    resetTimer();
-})();

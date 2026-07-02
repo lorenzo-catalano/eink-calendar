@@ -64,13 +64,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20260713",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI2MDcxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -85,12 +85,12 @@
     "end": {
       "date": "2026-07-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2026-07-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -259,13 +259,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20260813",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI2MDgxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -280,12 +280,12 @@
     "end": {
       "date": "2026-08-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2026-08-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -325,13 +325,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20260913",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI2MDkxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -346,12 +346,12 @@
     "end": {
       "date": "2026-09-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2026-09-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -360,13 +360,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20261013",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI2MTAxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -381,12 +381,12 @@
     "end": {
       "date": "2026-10-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2026-10-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -395,13 +395,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20261113",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI2MTExMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -416,12 +416,12 @@
     "end": {
       "date": "2026-11-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2026-11-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -430,13 +430,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20261213",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI2MTIxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -451,12 +451,12 @@
     "end": {
       "date": "2026-12-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2026-12-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -465,13 +465,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20270113",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MDExMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -486,12 +486,12 @@
     "end": {
       "date": "2027-01-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2027-01-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -532,13 +532,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20270213",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MDIxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -553,12 +553,12 @@
     "end": {
       "date": "2027-02-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2027-02-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -567,13 +567,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20270313",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MDMxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -588,12 +588,12 @@
     "end": {
       "date": "2027-03-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2027-03-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -602,13 +602,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20270413",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MDQxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -623,12 +623,12 @@
     "end": {
       "date": "2027-04-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2027-04-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -637,13 +637,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20270513",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MDUxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -658,12 +658,12 @@
     "end": {
       "date": "2027-05-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2027-05-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -704,13 +704,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20270613",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MDYxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -725,12 +725,12 @@
     "end": {
       "date": "2027-06-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2027-06-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -739,13 +739,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20270713",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MDcxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -760,12 +760,12 @@
     "end": {
       "date": "2027-07-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2027-07-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -774,13 +774,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20270813",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MDgxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -795,12 +795,12 @@
     "end": {
       "date": "2027-08-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2027-08-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -809,13 +809,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20270913",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MDkxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -830,12 +830,12 @@
     "end": {
       "date": "2027-09-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2027-09-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -844,13 +844,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20271013",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MTAxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -865,12 +865,12 @@
     "end": {
       "date": "2027-10-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2027-10-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -879,13 +879,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20271113",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MTExMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -900,12 +900,12 @@
     "end": {
       "date": "2027-11-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2027-11-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -914,13 +914,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20271213",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI3MTIxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -935,12 +935,12 @@
     "end": {
       "date": "2027-12-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2027-12-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -949,13 +949,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20280113",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI4MDExMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -970,12 +970,12 @@
     "end": {
       "date": "2028-01-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2028-01-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
@@ -984,13 +984,13 @@
   },
   {
     "kind": "calendar#event",
-    "etag": "\"3546775648218238\"",
+    "etag": "\"3566004787769598\"",
     "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20280213",
     "status": "confirmed",
     "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI4MDIxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
     "created": "2026-03-13T07:43:36.000Z",
-    "updated": "2026-03-13T07:43:44.109Z",
-    "summary": "Cesare Antiparass",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
     "creator": {
       "email": "lor.catalano@gmail.com"
     },
@@ -1005,12 +1005,12 @@
     "end": {
       "date": "2028-02-14"
     },
-    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c",
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2028-02-13"
     },
     "transparency": "transparent",
-    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c@google.com",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
     "sequence": 1,
     "reminders": {
       "useDefault": false
