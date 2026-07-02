@@ -191,11 +191,9 @@ fetch('./batterylevel.json').then(s=>s.json()).then(b=>{
         return;
     }
 
-    if(level>=95){
+    if(level>=90){
         document.getElementById("batteryFull").classList.add('show')
-    }else if(level>75){
-        document.getElementById("batteryHigh").classList.add('show')
-    }else if(level>35){
+    }else if(level>40){
         document.getElementById("batteryMed").classList.add('show')
     }else if(level>5){
         document.getElementById("batteryLow").classList.add('show')
