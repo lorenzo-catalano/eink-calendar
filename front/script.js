@@ -1,3 +1,4 @@
+document.getElementById('reload').addEventListener('click', () => document.location.reload());
 (function() {
     // 120 seconds in milliseconds
     const INACTIVITY_TIME = 120000; 
@@ -9,12 +10,15 @@
         
         // Start a new timer to reload the page
         timeoutId = setTimeout(() => {
-            window.location.reload();
+            refreshCalendar()
+            refreshBattery()
+            refreshMeteo()
+            resetTimer()
         }, INACTIVITY_TIME);
     }
 
     // List of events that count as "activity"
-    const activityEvents = ['mousedown', 'mousemove', 'keypress', 'scroll', 'touchstart'];
+    const activityEvents = ['click', 'touchstart'];
 
     // Add event listeners to the window
     activityEvents.forEach(event => {
@@ -197,69 +201,73 @@ calGrid.addEventListener('click', e => {
 });
 
 // Fetch Init
-fetch('./calendar-events.json')
-    .then(d => d.json())
-    .then(eee => {
-        events = eee;
-        indexEvents(events); // Build lookups immediately
-        drawCalendar(currentCalendarDate);
-        drawDayContainer();
-    });
+function refreshCalendar(){
+    fetch('./calendar-events.json')
+        .then(d => d.json())
+        .then(eee => {
+            events = eee;
+            indexEvents(events); // Build lookups immediately
+            drawCalendar(currentCalendarDate);
+            drawDayContainer();
+        });
+}
 
-// Weather API Optimization (Replaced heavy moment parsing with basic string slicing)
-fetch('https://api.open-meteo.com/v1/forecast?latitude=45.5744&longitude=9.0754&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=Europe%2FBerlin')
-    .then(d => d.json())
-    .then(meteodata => {
-        let html = '';
-        const daily = meteodata.daily;
-        for (let i = 0; i < daily.time.length; i++) {
-            const dateStr = daily.time[i]; // "YYYY-MM-DD"
-            const formattedDate = `${dateStr.substring(8, 10)}/${dateStr.substring(5, 7)}`;
-            
-            html += `<div class="weatherCode">
-                ${formattedDate}
-                ${getWeatherIcon(daily.weather_code[i])}
-                <div class="temp flex-col">
-                    <span>${daily.temperature_2m_max[i]}°c</span>
-                    <span>${daily.temperature_2m_min[i]}°c</span>    
-                </div>
-            </div>`;
+function refreshMeteo(){
+    fetch('https://api.open-meteo.com/v1/forecast?latitude=45.5744&longitude=9.0754&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=Europe%2FBerlin')
+        .then(d => d.json())
+        .then(meteodata => {
+            let html = '';
+            const daily = meteodata.daily;
+            for (let i = 0; i < daily.time.length; i++) {
+                const dateStr = daily.time[i]; // "YYYY-MM-DD"
+                const formattedDate = `${dateStr.substring(8, 10)}/${dateStr.substring(5, 7)}`;
+                
+                html += `<div class="weatherCode">
+                    ${formattedDate}
+                    ${getWeatherIcon(daily.weather_code[i])}
+                    <div class="temp flex-col">
+                        <span>${daily.temperature_2m_max[i]}°c</span>
+                        <span>${daily.temperature_2m_min[i]}°c</span>    
+                    </div>
+                </div>`;
+            }
+            miscContainer.innerHTML = html;
+        });
+}
+
+function refreshBattery(){
+    fetch('./batterylevel.json').then(s=>s.json()).then(b=>{
+        var batt = b.battInfo[0]
+        var level = batt.cap
+
+        document.querySelector('#batteryPerc').textContent = level+'%'
+
+        var show = document.querySelector('.batteryCont .show')
+        if(show)
+            show.classList.remove('show')
+
+        if(batt.charging){
+            document.getElementById("batteryCharging").classList.add('show')
+            return;
         }
-        miscContainer.innerHTML = html;
-    });
+
+        if(level>=90){
+            document.getElementById("batteryFull").classList.add('show')
+        }else if(level>40){
+            document.getElementById("batteryMed").classList.add('show')
+        }else if(level>5){
+            document.getElementById("batteryLow").classList.add('show')
+        }else if(level<5){
+            document.getElementById("batteryEmpty").classList.add('show')
+        }
+    }) 
+}
+
+refreshCalendar()
+refreshBattery()
+refreshMeteo()
 
 
-fetch('./batterylevel.json').then(s=>s.json()).then(b=>{
-    var batt = b.battInfo[0]
-    var level = batt.cap
-
-    document.querySelector('#batteryPerc').textContent = level+'%'
-
-    var show = document.querySelector('.batteryCont .show')
-    if(show)
-        show.classList.remove('show')
-
-    if(batt.charging){
-        document.getElementById("batteryCharging").classList.add('show')
-        return;
-    }
-
-    if(level>=90){
-        document.getElementById("batteryFull").classList.add('show')
-    }else if(level>40){
-        document.getElementById("batteryMed").classList.add('show')
-    }else if(level>5){
-        document.getElementById("batteryLow").classList.add('show')
-    }else if(level<5){
-        document.getElementById("batteryEmpty").classList.add('show')
-    }
-}) 
-
-
-
-
-
-document.getElementById('reload').addEventListener('click', () => document.location.reload());
 
 
 
