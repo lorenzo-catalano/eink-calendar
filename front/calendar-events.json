@@ -1,13 +1,13 @@
 [
   {
     "kind": "calendar#event",
-    "etag": "\"3564562455926526\"",
-    "id": "64o6cohg6gqjcbb2c9j62b9kclhm2b9o6ko68bb660q62e1j6hi64db36k",
+    "etag": "\"3566172020496510\"",
+    "id": "74p64cr36ooj4bb470rj8b9k68q34bb16krjabb5ccq68pho68rj4o9g6c",
     "status": "confirmed",
-    "htmlLink": "https://www.google.com/calendar/event?eid=NjRvNmNvaGc2Z3FqY2JiMmM5ajYyYjlrY2xobTJiOW82a282OGJiNjYwcTYyZTFqNmhpNjRkYjM2ayBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
-    "created": "2026-06-24T06:07:07.000Z",
-    "updated": "2026-06-24T06:07:07.963Z",
-    "summary": "YOGA",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzRwNjRjcjM2b29qNGJiNDcwcmo4YjlrNjhxMzRiYjE2a3JqYWJiNWNjcTY4cGhvNjhyajRvOWc2YyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-07-03T13:40:09.000Z",
+    "updated": "2026-07-03T13:40:10.248Z",
+    "summary": "Laser",
     "creator": {
       "email": "fraffry86@gmail.com"
     },
@@ -17,48 +17,17 @@
       "self": true
     },
     "start": {
-      "dateTime": "2026-07-03T17:30:00Z",
+      "dateTime": "2026-07-11T09:15:00Z",
       "timeZone": "Europe/Rome"
     },
     "end": {
-      "dateTime": "2026-07-03T18:30:00Z",
+      "dateTime": "2026-07-11T10:15:00Z",
       "timeZone": "Europe/Rome"
     },
-    "iCalUID": "64o6cohg6gqjcbb2c9j62b9kclhm2b9o6ko68bb660q62e1j6hi64db36k@google.com",
+    "iCalUID": "74p64cr36ooj4bb470rj8b9k68q34bb16krjabb5ccq68pho68rj4o9g6c@google.com",
     "sequence": 0,
     "reminders": {
       "useDefault": true
-    },
-    "eventType": "default"
-  },
-  {
-    "kind": "calendar#event",
-    "etag": "\"3564145025254430\"",
-    "id": "75h3ec1o6lij8bb46gs30b9k68pjabb2c4o64b9i61ijeeb3ccsm6dr3ck",
-    "status": "confirmed",
-    "htmlLink": "https://www.google.com/calendar/event?eid=NzVoM2VjMW82bGlqOGJiNDZnczMwYjlrNjhwamFiYjJjNG82NGI5aTYxaWplZWIzY2NzbTZkcjNjayBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
-    "created": "2026-06-21T20:08:32.000Z",
-    "updated": "2026-06-21T20:08:32.627Z",
-    "summary": "Inizio saldi",
-    "creator": {
-      "email": "fraffry86@gmail.com"
-    },
-    "organizer": {
-      "email": "family09694292671709830714@group.calendar.google.com",
-      "displayName": "Famiglia",
-      "self": true
-    },
-    "start": {
-      "date": "2026-07-04"
-    },
-    "end": {
-      "date": "2026-07-05"
-    },
-    "transparency": "transparent",
-    "iCalUID": "75h3ec1o6lij8bb46gs30b9k68pjabb2c4o64b9i61ijeeb3ccsm6dr3ck@google.com",
-    "sequence": 0,
-    "reminders": {
-      "useDefault": false
     },
     "eventType": "default"
   },
@@ -1008,6 +977,41 @@
     "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
     "originalStartTime": {
       "date": "2028-02-13"
+    },
+    "transparency": "transparent",
+    "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3566004787769598\"",
+    "id": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_20280313",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzFqMzRjcGxjZ3FtYWJiMmM1aGphYjlrNmxobWNiYjJjOWozY2I5cDZvc2ppcDM0YzRvM2lvcjM2Y18yMDI4MDMxMyBmYW1pbHkwOTY5NDI5MjY3MTcwOTgzMDcxNEBn",
+    "created": "2026-03-13T07:43:36.000Z",
+    "updated": "2026-07-02T14:26:33.884Z",
+    "summary": "Cesare Antiparass 🐕💉",
+    "creator": {
+      "email": "lor.catalano@gmail.com"
+    },
+    "organizer": {
+      "email": "family09694292671709830714@group.calendar.google.com",
+      "displayName": "Famiglia",
+      "self": true
+    },
+    "start": {
+      "date": "2028-03-13"
+    },
+    "end": {
+      "date": "2028-03-14"
+    },
+    "recurringEventId": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713",
+    "originalStartTime": {
+      "date": "2028-03-13"
     },
     "transparency": "transparent",
     "iCalUID": "71j34cplcgqmabb2c5hjab9k6lhmcbb2c9j3cb9p6osjip34c4o3ior36c_R20260713@google.com",
