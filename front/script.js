@@ -77,9 +77,9 @@ const indexEvents = (eventList) => {
 // Setup current state using simple timestamps
 let currentCalendarDate = new Date();
 let selectedDay = new Date();
-const todayStr = toIsoDateStr(new Date());
 
 const drawCalendar = (calDate) => {
+    const todayStr = toIsoDateStr(new Date());
     const year = calDate.getFullYear();
     const month = calDate.getMonth();
 
@@ -205,7 +205,10 @@ function refreshCalendar(){
     fetch('./calendar-events.json')
         .then(d => d.json())
         .then(eee => {
+            currentCalendarDate = new Date();
+            selectedDay = new Date();
             events = eee;
+            
             indexEvents(events); // Build lookups immediately
             drawCalendar(currentCalendarDate);
             drawDayContainer();
